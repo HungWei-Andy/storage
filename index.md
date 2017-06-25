@@ -8,7 +8,7 @@
 
 [Natural Language Generation](#natural-language-generation)
 
-### Overview
+# Overview
 
 If you are not so familiar with PTT, don’t worry! Our PTT-BOT is here for you.
 With it, you are going to be a professional villagers!(鄉民)
@@ -35,13 +35,13 @@ Wait for you to Discover !
 (6) 「All Chat-BOTs IN THIS ONE PTT-BOT 」
 Support multi-domain Searching :Moive, Music, Course, Stock, Food, Job...etc
 
-### Ontology
+# Ontology
 
-### Language Understanding
+# Language Understanding
 
-### Dialogue Management
+# Dialogue Management
 
-# Model architecture: Reinforcement Learning (RL)-Deep-Q learning (DQN)
+### Model architecture: Reinforcement Learning (RL)-Deep-Q learning (DQN)
 
 - We take Keras-rl and GYM as our reference to build our model.
 
