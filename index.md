@@ -35,6 +35,9 @@ Wait for you to Discover !
 (6) 「All Chat-BOTs IN THIS ONE PTT-BOT 」
 Support multi-domain Searching :Moive, Music, Course, Stock, Food, Job...etc
 
+![alt text](http://ppt.cc/3NqB9)
+![alt text](http://ppt.cc/McG86)
+
 # Ontology
 
 We crawled and collected data from the top five boards(Gossiping, Sex, Lol, Joke, NBA) on [PTT](https://www.ptt.cc/bbs/hotboards.html) , and built our database including the fields below. Each entity indicates a post on PTT.
