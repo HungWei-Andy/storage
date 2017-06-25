@@ -1,37 +1,44 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/HungWei-Andy/dlmbs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Overview](#overview)
+[Ontology](#ontology)
+[Language Understanding](#language-understanding)
+[Dailogue Management](#dialogue-management)
+[Natural Language Generation](#natural-language-generation)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Overview
 
-### Markdown
+If you are not so familiar with PTT, don’t worry! Our PTT-BOT is here for you.
+With it, you are going to be a professional villagers!(鄉民)
+Here are some functionalities you must try!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(1)「BOT Full Of Emotion 」
+-The greeting and the reply of our BOT will adjust based on the facial expression of the
+user.
+(2)「Search Desired Posts For U 」
+- Our BOT can search for related posts according to the information provided by
+users.
+(3) 「Search Desired Board For U 」
+-Often having no idea what board it has/which board to find the things/topics you want ?
+Our BOT can recommend related board according to the keywords.
 
-```markdown
-Syntax highlighted code block
+(4) 「Track Users U R Interested In」
+-Our BOT can find shared accounts of the same user. (找分身)
 
-# Header 1
-## Header 2
-### Header 3
+(5) 「Customized Features and So on...」
+-Wait for you to Discover !
 
-- Bulleted
-- List
+(6) 「All Chat-BOTs IN THIS ONE PTT-BOT 」
+-Support multi-domain Searching :Moive, Music, Course, Stock, Food, Job...etc
 
-1. Numbered
-2. List
+### Ontology
 
-**Bold** and _Italic_ and `Code` text
+### Language Understanding
 
-[Link](url) and ![Image](src)
-```
+### Dailogue Management
+## Model architecture: Reinforcement Learning (RL)-Deep-Q learning (DQN)
+# We take Keras-rl and GYM as our reference to build our model.
+# RL states: The NLU turns the sentences from simulated user (environment) into observation, in which we extract our desired states as the input of the agent.
+# Action: The policy in DQN agent is Boltzmann Q policy, and the behavior is trained by the reward given by the simulated user.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HungWei-Andy/dlmbs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Natural Language Generation
