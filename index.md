@@ -36,7 +36,8 @@ Wait for you to Discover !
 Support multi-domain Searching :Moive, Music, Course, Stock, Food, Job...etc
 
 # Ontology
-## We crawled and collected data from the top five boards(Gossiping, Sex, Lol, Joke, NBA) on [PTT](https://www.ptt.cc/bbs/hotboards.html) , and built our database including the fields below. Each entity indicates a post on PTT.
+
+We crawled and collected data from the top five boards(Gossiping, Sex, Lol, Joke, NBA) on [PTT](https://www.ptt.cc/bbs/hotboards.html) , and built our database including the fields below. Each entity indicates a post on PTT.
 
 ### Overview of DB Table
 - The size of DB: In total, We have nearly 50K posts from this five boards.
