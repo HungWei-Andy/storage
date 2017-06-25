@@ -35,8 +35,8 @@ Wait for you to Discover !
 (6) 「All Chat-BOTs IN THIS ONE PTT-BOT 」
 Support multi-domain Searching :Moive, Music, Course, Stock, Food, Job...etc
 
-![alt text](http://ppt.cc/3NqB9)
-![alt text](http://ppt.cc/McG86)
+![ ](https://github.com/HungWei-Andy/dlmbs/blob/master/images/1.png)
+![ ](https://github.com/HungWei-Andy/dlmbs/blob/master/images/2.png)
 
 # Ontology
 
