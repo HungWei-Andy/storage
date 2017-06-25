@@ -63,11 +63,13 @@ We crawled and collected data from the top five boards(Gossiping, Sex, Lol, Joke
 (a) Intent Prediction: Feed-Forward recurrent neural networks
 - Structure: Feed-Forward RNN with hidden size = 100.
 
+![ ](https://github.com/HungWei-Andy/dlmbs/blob/master/images/8.png)
+
 (b)Slot Filling :Bidirectional recurrent neural networks (BRNN)
 - Structure: Bidirectional RNN with hidden size = 100
 - In this structure, the output layer can get information from past and future states, which is especially useful for slot-filling.
 
-![ ](https://github.com/HungWei-Andy/dlmbs/blob/master/images/6.png)
+![ ](https://github.com/HungWei-Andy/dlmbs/blob/master/images/9.png)
 
 ### Data Collection
 - We created more than 10 templates for each intents, and collected the key words from PTT
